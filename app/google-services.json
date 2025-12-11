@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659802721128",
+    "project_id": "ute-shortvideo",
+    "storage_bucket": "ute-shortvideo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659802721128:android:e58b5f48f5c687f03ce4dd",
+        "android_client_info": {
+          "package_name": "vn.hcmute.videoshorts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1WztRvvkrdK3deZM_I2SDu5u0PXMNOuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
